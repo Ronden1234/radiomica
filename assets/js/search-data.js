@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/radiomica/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
+        },{id: "nav-studenti",
+          title: "Studenti",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
