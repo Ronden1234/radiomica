@@ -25,7 +25,15 @@ permalink: /
   #scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   #limit: 3 # leave blank to include all the blog posts
 ---
-<img src="dimes.png" alt="descrizione" style="display: block; margin: 0;">
+```html
+<aside>
+  {% include figure.liquid loading="eager" path="assets/img/dimes.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+  <p>
+    F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zoological Literature,” Science, Medicine, and History: Essays on the Evolution of
+    Scientific Thought and Medical Practice (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s Visual Explanations.
+  </p>
+</aside>
+```
 
 
 
