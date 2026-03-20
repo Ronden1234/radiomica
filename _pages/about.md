@@ -25,7 +25,7 @@ permalink: /
   #scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   #limit: 3 # leave blank to include all the blog posts
 ---
-<img src="/assets/img/dimes.png" alt="descrizione" style="display: block; margin: 0;">
+<img src="dimes.png" alt="descrizione" style="display: block; margin: 0;">
 
 
 
