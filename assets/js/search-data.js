@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/radiomica/";
     },
   },{id: "nav-comitato-scientifico",
-          title: "Comitato scientifico",
+          title: "Comitato Scientifico",
           description: "",
           section: "Navigation",
           handler: () => {
