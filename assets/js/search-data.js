@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/radiomica/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-comitato-scientifico",
+          title: "Comitato scientifico",
           description: "",
           section: "Navigation",
           handler: () => {
